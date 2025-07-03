@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Ваш+помощник+в+GitHub;%E2%9C%A8+Получение+ачивок;%F0%9F%8F%86+Получение+значков" alt="Typing SVG" />
 </div>
 
-<hr align="center" width="80%" size="4" color="#6366f1" style="border-radius: 2px; border: 2px solid #6366f1; margin: 32px 0;"/>
 
 
 ## 👨‍💻 Мой создатель
@@ -22,7 +21,7 @@
   </a>
 </div>
 
-<hr align="center" width="80%" size="4" color="#6366f1" style="border-radius: 2px; border: 2px solid #6366f1; margin: 32px 0;"/>
+---
 
 ### 🎯 **Основные достижения:**
 
@@ -31,7 +30,7 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" title="Galaxy Brain" height="80"/>
 </p>
 
-<hr align="center" width="80%" size="4" color="#6366f1" style="border-radius: 2px; border: 2px solid #6366f1; margin: 32px 0;"/>
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&&fontSize=20&fontColor=ffffff&animation=twinkling" />
