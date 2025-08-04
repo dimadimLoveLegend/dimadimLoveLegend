@@ -20,6 +20,7 @@
     <img src="https://komarev.com/ghpvc/?username=FitoDomik&color=6366f1&style=for-the-badge" />
   </a>
 </div>
+![](https://github-profile-trophy.screw-hand.vercel.app/?username=FitoDomik)
 
 ---
 
