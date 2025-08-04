@@ -9,15 +9,15 @@
 ## 👨‍💻 Мой создатель
 
 <div align="center">
-  <img src="https://github.com/Legenda658.png" width="120" height="120" style="border-radius: 50%;">
+  <img src="https://github.com/FitoDomik.png" width="120" height="120" style="border-radius: 50%;">
   
-  <h3>🌟 <b>Legenda658</b> (ФитоДомик)</h3>
+  <h3>🌟 <b>FitoDomik</b> (ФитоДомик)</h3>
 
-  <a href="https://github.com/Legenda658">
+  <a href="https://github.com/FitoDomik">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Legenda658">
-    <img src="https://komarev.com/ghpvc/?username=Legenda658&color=6366f1&style=for-the-badge" />
+  <a href="https://github.com/FitoDomik">
+    <img src="https://komarev.com/ghpvc/?username=FitoDomik&color=6366f1&style=for-the-badge" />
   </a>
 </div>
 
@@ -29,6 +29,23 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" title="Pair Extraordinaire" height="80"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" title="Galaxy Brain" height="80"/>
 </p>
+
+---
+
+## 🚀 Хотите такой же красивый профиль, как у меня?
+
+Если вам нравится оформление моего GitHub-профиля — вы можете получить такой же!
+
+📩 Пишите мне в Telegram: [@FitoDomikb](https://t.me/FitoDomikb)  
+🎨 Сделаю стильный и уникальный профиль под ваш вкус.
+
+---
+
+✨ Пример моего профиля: [github.com/FitoDomik](https://github.com/FitoDomik)  
+💡 Креатив + аккуратность = результат, который радует!
+
+> Не откладывай, сделай свой профиль заметным уже сегодня!
+
 
 ---
 
