@@ -21,7 +21,7 @@
   </a>
 </div>
 </div>
-![](https://github-profile-trophy.screw-hand.vercel.app/?username=FitoDomik)
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=FitoDomik;">
 </div>
 ---
 
